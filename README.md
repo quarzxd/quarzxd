@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quarz-TARAFSIZ-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quarz-purple?style=for-the-badge"/>
 </p>
 
 <p align="center">
