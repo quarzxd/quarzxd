@@ -1,7 +1,7 @@
-## 🫧 Connect with me
+## 
 
 <p align="center">
-  <a href="https://discord.gg/SENINLINKIN">
+  <a href="https://discord.gg/tarafsizrc">
     <img 
       src="https://lanyard.cnrad.dev/api/DISCORD_ID
       ?theme=dark
