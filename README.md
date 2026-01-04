@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-1921-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quarz-purple?style=for-the-badge"/>
 </p>
 
 <p align="center">
