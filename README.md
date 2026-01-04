@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/1278265079997005834?theme=dark&bg=0d1117&animated=true&hideDiscrim=true" />
+  <img src="https://lanyard.live/user/1278265079997005834?theme=dark&bg=0d1117&animated=true" />
 </p>
 
 ---
