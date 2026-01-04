@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quarzxd&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Level-1921-purple?style=for-the-badge"/>
 </p>
 
