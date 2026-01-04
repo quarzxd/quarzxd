@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Dıscord > quarzxd</i>
+  <i>Dıscord > dayandim</i>
 </p>
 
 ---
