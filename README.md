@@ -13,6 +13,12 @@
 ---
 
 <p align="center">
+  <img src="https://lanyard.cnrad.dev/1278265079997005834?theme=dark&bg=0d1117&animated=true&hideDiscrim=true" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
