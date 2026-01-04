@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>I'm not currently doing anything! / Dıscord > quarzxd</i>
+  <i>Busy / Dıscord > quarzxd</i>
 </p>
 
 ---
