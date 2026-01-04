@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://lanyard.live/user/1278265079997005834?theme=dark&bg=0d1117&animated=true" />
+  <img src="https://cdn.discordapp.com/avatars/1278265079997005834/8e17b6fe7faf7e9f5257ef2f531ce558.webp?size=256" width="128" style="border-radius:50%;" />
 </p>
 
 ---
