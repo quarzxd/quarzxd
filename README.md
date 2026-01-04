@@ -1,14 +1,26 @@
-<p href="https://api.lanyard.rest/v1/users/1278265079997005834" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/1278265079997005834 borderRadius=30px"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Quarz-purple?style=for-the-badge"/>
 </p>
-
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,vscode,js,css,html,go,perl,cpp" />
-  </a>
+  <i>Dıscord > quarzxd</i>
 </p>
 
-<p href="https://discord.com/users/453585632565002243" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxycan&theme=tokyonight&show_icons=true">
+---
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/avatars/1278265079997005834/8e17b6fe7faf7e9f5257ef2f531ce558.webp?size=256" width="128" style="border-radius:50%;" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
 </p>
