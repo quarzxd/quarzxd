@@ -10,3 +10,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=quarzxd&repo=vanity-url-sniper-fast&color=blue" alt="Profile Views">
