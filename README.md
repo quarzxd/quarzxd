@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1456081065121812634?bg=0&idleMessage=discord.gg%2Ftarafsizrc)](https://discord.com/users/1456081065121812634)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1456081065121812634?bg=0)](https://discord.com/users/1456081065121812634)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
