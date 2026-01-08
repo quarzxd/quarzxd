@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Quarz-purple?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <i>Dıscord > dayandim</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1278265079997005834/8e17b6fe7faf7e9f5257ef2f531ce558.webp?size=256" width="128" style="border-radius:50%;" />
-</p>
-
----
+[![Discord Presence](https://lanyard.cnrad.dev/api/1456081065121812634?bg=000)](https://discord.com/users/1456081065121812634)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
