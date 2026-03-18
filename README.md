@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/345861152527482880?bg=0)](https://discord.com/users/345861152527482880)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1483927317204963409?bg=0)](https://discord.com/users/1483927317204963409)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
