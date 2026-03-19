@@ -3,7 +3,7 @@
   <a href="https://discord.com/users/1483927317204963409">
     <img src="https://lanyard.cnrad.dev/api/1483927317204963409?bg=0" alt="Discord Presence" width="400"
          style="border-radius: 20px; box-shadow: 0 12px 30px rgba(0,0,0,0.4); transition: transform 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.05)';"
+         onmouseover="this.style.transform='scale(1.35)';"
          onmouseout="this.style.transform='scale(1)';"
     />
   </a>
